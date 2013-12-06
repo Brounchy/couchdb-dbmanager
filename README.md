@@ -1,4 +1,4 @@
 couchdb-dbmanager
 =================
 
-Project to do database management on couchdb databases (migration operations, ...)
+Project to do database management on couchdb databases
