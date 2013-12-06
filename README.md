@@ -1,4 +1,4 @@
 couchdb-dbmanager
 =================
 
-Project to do database management on couchdb databases
+Java api to do database management on couchdb databases using ektorp.
